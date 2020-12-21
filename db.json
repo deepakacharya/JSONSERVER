@@ -1,0 +1,59 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "firstName": "deepak",
+            "lastName": "acharya",
+            "email": "dpk@gmail.com",
+            "age": 34,
+            "companyId": "1"
+        },
+        {
+            "id": "2",
+            "firstName": "rohan",
+            "lastName": "acharya",
+            "email": "rohan@gmail.com",
+            "age": 31,
+            "companyId": "1"
+        },
+        {
+            "id": "3",
+            "firstName": "rama",
+            "lastName": "panda",
+            "email": "rama@gmail.com",
+            "age": 29,
+            "companyId": "2"
+        },
+        {
+            "id": "4",
+            "firstName": "hari",
+            "lastName": "sahu",
+            "email": "hari@gmail.com",
+            "age": 43,
+            "companyId": "3"
+        }
+    ],
+    "companies": [
+        {
+            "id": "1",
+            "name": "Apple",
+            "description": "Apple company"
+        },
+        {
+            "id": "2",
+            "name": "Microsoft",
+            "description": "Microsoft company"
+        },
+        {
+            "id": "3",
+            "name": "Google",
+            "description": "Google company"
+        }
+    ],
+    "messages": [
+        {
+            "label": "student.faculty.ucas.individual.applicant.search.info.text",
+            "message": "Select your Application Review Group. This will be recorded against any Actions or Comments entered on the Summary page.\nThe page will only return IDs of applicants matching the search criteria."
+        }
+    ]
+}

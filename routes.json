@@ -1,0 +1,5 @@
+{
+    "/FacultySelfService/ssb/*": "/$1",
+    "/facultyInfoText/getMessage\\?label=:label": "/messages/?label=:label&singular=1"
+
+}

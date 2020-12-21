@@ -1,0 +1,14 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "facking json response",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json --port 3000 --routes routes.json --middlewares singular.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
